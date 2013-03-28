@@ -1,5 +1,9 @@
-# The average adult reads prose text at 250 to 300 words per minute. While proofreading materials, people are able to read at 200 wpm on paper, and 180 wpm on a monitor
+#!/usr/bin/env ruby
+
 require 'open-uri'
+
+
+
 chapters = []
 lined_text = []
 books = []
